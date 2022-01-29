@@ -1,4 +1,4 @@
-package uk.co.haxyshideout.aliuplugins.NoUpsideDown;
+package uk.co.haxyshideout.aliuplugins.noupsidedown;
 
 import android.content.Context;
 import android.content.pm.ActivityInfo;
